@@ -1,7 +1,7 @@
 # Arch-Script
 ArchLinux Install script
 
-This script was made based on https://gitlab.com/eflinux/arch-basic with some tweaks for those who sometimes has internet connection problem which makes running a single script multiple times impossible (since there are some echo command)
+This script was made based on https://gitlab.com/eflinux/arch-basic with some tweaks for those who sometimes has internet connection problem which makes running a single script multiple times impossible (since there are some echo commands)
 
 The first part of the Arch Linux install is manual, that is you will have to partition, format and mount the disk yourself. Install the base packages and make sure to inlcude git so that you can clone the repository in chroot.
 
