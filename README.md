@@ -19,4 +19,6 @@ Summary:
 10. chmod -R 755 Arch-Base-Install
 11. cd Arch-Base-Install
 12. cd to which system you're running
-13. run each script in succession, DO NOT skip any script (./MBR1.sh and then ./MBR2.sh and so on) 
+13. review each script, make changes as you see fit
+14. run each script in succession, DO NOT skip any script (./MBR1.sh and then ./MBR2.sh and so on) 
+15. after reboot, if you want/need to install a Desktop Environment, go to https://github.com/Evan-aja/Arch-DE-Install.git
